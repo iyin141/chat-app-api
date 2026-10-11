@@ -1,0 +1,15 @@
+C:\Users\iyino\Videos\react\chat-app\apps\api\ChatApp.Infrastructure\bin\Release\net10.0\ChatApp.Infrastructure.deps.json
+C:\Users\iyino\Videos\react\chat-app\apps\api\ChatApp.Infrastructure\bin\Release\net10.0\ChatApp.Infrastructure.runtimeconfig.json
+C:\Users\iyino\Videos\react\chat-app\apps\api\ChatApp.Infrastructure\bin\Release\net10.0\ChatApp.Infrastructure.dll
+C:\Users\iyino\Videos\react\chat-app\apps\api\ChatApp.Infrastructure\bin\Release\net10.0\ChatApp.Infrastructure.pdb
+C:\Users\iyino\Videos\react\chat-app\apps\api\ChatApp.Infrastructure\obj\Release\net10.0\ChatApp.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\iyino\Videos\react\chat-app\apps\api\ChatApp.Infrastructure\obj\Release\net10.0\ChatApp.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iyino\Videos\react\chat-app\apps\api\ChatApp.Infrastructure\obj\Release\net10.0\ChatApp.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\iyino\Videos\react\chat-app\apps\api\ChatApp.Infrastructure\obj\Release\net10.0\ChatApp.Infrastructure.AssemblyInfo.cs
+C:\Users\iyino\Videos\react\chat-app\apps\api\ChatApp.Infrastructure\obj\Release\net10.0\ChatApp.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\iyino\Videos\react\chat-app\apps\api\ChatApp.Infrastructure\obj\Release\net10.0\ChatApp.Infrastructure.sourcelink.json
+C:\Users\iyino\Videos\react\chat-app\apps\api\ChatApp.Infrastructure\obj\Release\net10.0\ChatApp.Infrastructure.dll
+C:\Users\iyino\Videos\react\chat-app\apps\api\ChatApp.Infrastructure\obj\Release\net10.0\refint\ChatApp.Infrastructure.dll
+C:\Users\iyino\Videos\react\chat-app\apps\api\ChatApp.Infrastructure\obj\Release\net10.0\ChatApp.Infrastructure.pdb
+C:\Users\iyino\Videos\react\chat-app\apps\api\ChatApp.Infrastructure\obj\Release\net10.0\ChatApp.Infrastructure.genruntimeconfig.cache
+C:\Users\iyino\Videos\react\chat-app\apps\api\ChatApp.Infrastructure\obj\Release\net10.0\ref\ChatApp.Infrastructure.dll
